@@ -37,7 +37,7 @@ Before running the application, ensure you have the following installed:
 1. **Clone the repository**
    ```bash
    git clone git@github.com:MohammedSaffan2003/task-manager-backend.git
-   cd task-manager
+   cd task-manager-backend
    ```
 
 2. **Database Setup**
